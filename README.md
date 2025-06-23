@@ -1,41 +1,29 @@
-# vue_task_project
+# 🌌✨ **写在深夜代码之后** ✨🌌
 
-This template should help get you started developing with Vue 3 in Vite.
+我赋予数据以生命，  
+页面也会回馈你一片温柔……
 
-## Recommended IDE Setup
+我给每个任务设了一个状态：未完成 → 完成 ✅  
+就像我对你的心意，从藏在心底，慢慢变得坚定。  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+我也设置了删除功能 ❌  
+可无论怎么写，总觉得有些任务删得干脆，  
+有些，却删不掉。  
+就像有些人，住进了心里，就删不掉了。
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+🧠 我用 `v-model` 连接用户与数据，  
+🎭 用 `v-for` 让任务有序地走上舞台，  
+🌡️ 用 Pinia 托起状态的脉搏，  
+这一刻，我仿佛听见页面在和我说话……
 
-## Project Setup
+---
 
-```sh
-npm install
-```
+💻 今天，我把这个小知识点写活了；  
+🌠 明天，我要把梦想也写进这个世界的某一角落……
 
-### Compile and Hot-Reload for Development
+👀 如果你看见这段文字，  
+愿你知道，这不只是一段 Vue 的成长记录，  
+更是我藏在代码里的温柔和思念。
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
